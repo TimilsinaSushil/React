@@ -5,8 +5,7 @@ import Container1 from './containers/container1'
 function App() {
   return (
     <div className="App">
-      React
-        <Component1 name='moe' age={25} />
+        React
         <Container1 nickname='Sushil' height={5.5} />
     </div>
   );
